@@ -1,0 +1,4 @@
+- [x] Add FontAwesome CDN link to the <head> section in index.html for icon support.
+- [x] Change the existing email icon in the first vcard-row from fa-circle-envelope to fab fa-google (Gmail icon).
+- [x] Add a new second div with class vcard-row below the existing one, including WhatsApp icon (fab fa-whatsapp) and a link to WhatsApp using the number +1 (402) 965–1574.
+- [x] Verify the changes by opening index.html in a browser to ensure icons display correctly.
