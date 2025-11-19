@@ -1,4 +1,4 @@
-# TODO List for Adding Footer to Webpage
-
-- [x] Add footer HTML element to index.html with "© 2023 Cyber Tech"
-- [x] Add CSS styles for footer in style.css (centered, matching theme, with animation)
+- [x] Update the first vcard-row in contact-us-1 div: Change icon from fab fa-google to fas fa-comment-sms
+- [x] Change the href from mailto:cybertech4sure@gmail.com to sms:+14029651574
+- [x] Update the h4 anchor to display +1 (402) 965–1574
+- [x] Change the small text from "Email" to "SMS"

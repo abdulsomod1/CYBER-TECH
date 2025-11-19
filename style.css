@@ -76,34 +76,44 @@ p* {
   max-width: 400px;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
+
 .vcard-row:hover {
   transform: scale(1.05);
   box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
 }
+
 .vcard-row i {
   font-size: 28px;
   margin-right: 15px;
   transition: color 0.3s ease;
 }
+
 .vcard-row i.fa-google {
-  color: #db4437; /* Gmail red */
+  color: #db4437;
+  /* Gmail red */
 }
+
 .vcard-row i.fa-whatsapp {
-  color: #25d366; /* WhatsApp green */
+  color: #25d366;
+  /* WhatsApp green */
 }
+
 .vcard-row h4 {
   font-size: 20px;
   margin: 0;
   flex-grow: 1;
 }
+
 .vcard-row h4 a {
   text-decoration: none;
   color: #333;
   transition: color 0.3s ease;
 }
+
 .vcard-row h4 a:hover {
   color: #007bff;
 }
+
 .vcard-row small {
   font-size: 14px;
   color: #666;
@@ -126,6 +136,7 @@ p* {
     opacity: 0;
     transform: translateY(30px);
   }
+
   to {
     opacity: 1;
     transform: translateY(0);
@@ -226,4 +237,6 @@ footer p {
   font-size: 16px;
 }
 
-
+.bt-m {
+  padding-bottom: 10%;
+}
