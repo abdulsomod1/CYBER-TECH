@@ -98,6 +98,11 @@ p* {
   /* WhatsApp green */
 }
 
+.vcard-row i.fa-telegram-plane {
+  color: #0088cc;
+  /* Telegram blue */
+}
+
 .vcard-row h4 {
   font-size: 20px;
   margin: 0;
